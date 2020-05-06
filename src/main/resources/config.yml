@@ -1,0 +1,11 @@
+#Todos mit ,  trennen (, und Leerzeichen dannach! Nicht todo1,todo2!)
+Todos: Todo1, Todo2
+#Regeln nur 3 Slots verfügbar! Regel; FARBE (ohne Anführungszeichen und ";" mit " "!)
+#Prolog (Überschrift der Regeln - automatisch fett)
+RTitle: Regeln; LIGHT_PURPLE
+#a)
+RegelA: Regel 1 besagt - blablabla; YELLOW
+#b)
+RegelB: Regel 2 besagt - blablabla; DARK_RED
+#c)
+RegelC: Regel 3 ist eine Regel; GREEN
