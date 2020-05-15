@@ -1,0 +1,45 @@
+name: HGFPlugin
+version: ${project.version}
+main: net.raupi.krachkiste.hgfplugin.HGFPlugin
+api-version: 1.13
+prefix: HGFPlugin
+authors: [Krachkiste]
+description: HGFPlugin für das Hardenberg Gymnasium Fürth 2020
+website: www.raupi.net
+commands:
+  hgf:
+    description: HGF
+    aliases: [plugin, menü, menu, hauptmenü, nav, navigation, hardenberg-gymnasium-fürth]
+  todoremove:
+    description: Todo entfernen
+    aliases: [todo-, todo-remove, todo-entfernen, todoentfernen]
+  todoadd:
+    description: Todo hinzufügen
+    aliases: [todo+, todo-add, todo-hinzufügen, todohinzufügen]
+  times:
+    description: Zeiteinstellungen
+    aliases: [zeit, zeiten, zeiteinst, zeiteinstellungen]
+  jm:
+    description: Jump Boost
+    aliases: [jumpb, jumpboost, jboost, jmp, jmpb]
+  speed:
+    description: Speed
+  strength:
+    description: Strength
+  settings:
+    description: Einstellungen
+    aliases: [einstellungen, einst, sett, рфвафыва]
+  nv:
+    description: Nightvision
+    aliases: [nightvision, nightv]
+  effect:
+    description: Effects
+    aliases: [eff, efc, effects]
+  todos:
+    description: Todos
+    aliases: [todo, tds]
+  baukit:
+    description: Baukits
+    aliases: [bkit, bauk, kit]
+  altbau:
+    description: Zum Altbau
