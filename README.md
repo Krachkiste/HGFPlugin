@@ -1,3 +1,3 @@
 #HGFPlugin
-https://hg-f.xyz/
+https://minecraft.hg-f.xyz/
 v2.0
