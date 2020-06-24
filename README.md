@@ -8,3 +8,5 @@ It adds helpful Features to the normal "vanilla" Mincraft Server:
 - Time Manager
 - Website Button
 # Contributing
+Contributing to the Plugin is never a bad Idea, since it only makes the Software better for everyone.
+So do not hesitate to add some Code! ;)
